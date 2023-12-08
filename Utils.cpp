@@ -21,6 +21,7 @@
 #include <cstdio>
 #include <time.h>
 #include <string>
+#include <span>
 
 using namespace android;
 using namespace android::hardware;
